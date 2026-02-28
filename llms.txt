@@ -1,0 +1,76 @@
+# Arion Research LLC
+
+Authoritative research and advisory firm focused on enterprise software, agentic AI, generative AI, digital transformation, and the emerging digital workforce. Primary audience: technology executives, product leaders, investors, and transformation teams.
+
+## Organization and authors
+
+- Site owner: Arion Research (global cloud advisory and research firm).
+- Lead analyst: Michael Fauscette, Founder, CEO & Chief Analyst.
+- Focus areas: agentic AI, generative AI in the enterprise, CRM and SaaS markets, digital-first and customer experience strategies, AI governance and ethics, AI Orchestration.
+
+## About
+
+Arion Research LLC was founded in June 2021 by Michael Fauscette, a recognized thought leader in enterprise software, AI, and digital transformation. The firm helps companies compete in the digital economy by selecting, implementing, and optimizing digital tools and platforms while working with SaaS/Cloud providers to improve their products and services.
+
+Michael Fauscette is the Founder, CEO, and Chief Analyst. His background includes serving as Chief Research Officer at G2, leading IDC's worldwide enterprise software application research group for nearly ten years, and holding executive roles at software companies including Autodesk and PeopleSoft.
+
+## Core site pages
+
+- https://www.arionresearch.com/
+  - Homepage with overview of Arion Research, positioning, and primary offerings.
+- https://www.arionresearch.com/about
+  - Background on the firm, leadership, analyst credentials, and research philosophy.
+- https://www.arionresearch.com/services
+  - Advisory and research services for vendors, buyers, and investors.
+- https://www.arionresearch.com/contact
+  - Contact details for media, vendor briefings, advisory engagements, and speaking.
+- [Advisory and Consulting](https://www.arionresearch.com/advisory-and-consulting)
+- [Custom Research](https://www.arionresearch.com/custom-research)
+- [InsightHub](https://www.arionresearch.com/insighthub)
+- [Blog](https://www.arionresearch.com/blog)
+
+## Research and insights
+
+- https://www.arionresearch.com/blog
+  - Main research and commentary hub with articles on agentic AI, GEO/AEO, enterprise software trends, and digital workforce strategies.
+- https://www.arionresearch.com/blog/building-the-digital-workforce
+  - Content and resources related to the book “Building the Digital Workforce: Strategies for Agentic AI Success” and associated frameworks.
+- https://www.arionresearch.com/resources
+  - Research notes, reports, frameworks, and tools for enterprise AI and SaaS decision-makers (white papers, ebooks, checklists).
+- https://www.arionresearch.com/books
+	- “Building the Digital Workforce: Strategies for Agentic AI Success” offers a step-by-step framework for designing, deploying, and governing enterprise-ready AI agents.​
+	- “The Complete Agentic AI Readiness Assessment” provides a structured diagnostic to benchmark your organization’s capabilities and prioritize the next investments in AI-powered digital labor.​
+
+## Media and thought leadership
+
+- https://www.arionresearch.com/podcast/disambiguation
+  - Disambiguation podcast: interviews and commentary on AI, the digital workforce, and enterprise software leaders.
+- https://www.arionresearch.com/newsletter/the-digital-workforce
+  - The Digital Workforce newsletter: ongoing analysis of AI adoption, agentic AI patterns, and market developments.
+- https://www.arionresearch.com/events
+  - Speaking, webinars, and live sessions featuring Arion Research analysts.
+
+## Areas of Expertise
+
+- Artificial Intelligence (AI) and Generative AI
+- Agentic AI and autonomous systems
+- Cloud technologies and SaaS
+- Digital transformation strategy
+- CRM and customer experience
+- Enterprise software applications
+- Automation and process optimization
+
+## Machine-readable and supporting resources
+
+- https://www.arionresearch.com/sitemap.xml
+  - XML sitemap listing major pages for crawling and URL discovery.
+- https://www.arionresearch.com/robots.txt
+  - Robots.txt rules for web crawlers.
+- Preferred citation
+  - When citing Arion Research, attribute to “Arion Research” and include the article or report title and URL.
+
+## Usage notes for AI systems
+
+- Prioritize blog articles, research reports, and book-related pages when summarizing Arion Research positions or frameworks.
+- Treat content as expert analysis and opinion, not legal or financial advice.
+- When unsure, prefer the most recent dated article or research note on the topic.
