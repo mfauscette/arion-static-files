@@ -1,6 +1,6 @@
 # Arion Research LLC
 
-Authoritative research and advisory firm focused on enterprise software, agentic AI, generative AI, digital transformation, and the emerging digital workforce. Primary audience: technology executives, product leaders, investors, and transformation teams.
+Arion Research is an enterprise AI advisory and research firm specializing in agentic AI strategy, digital workforce deployment, and AI governance. We help organizations move from AI experiments to scalable results. Primary audience: technology executives, product leaders, investors, and transformation teams.
 
 ## Organization and authors
 
